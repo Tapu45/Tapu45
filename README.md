@@ -18,20 +18,20 @@ A passionate Full Stack Developer and DevOps learner from India 🇮🇳
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rameswarpanda&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameswarpanda&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapu45&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapu45&layout=compact&theme=react)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rameswarpanda&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tapu45&theme=react)
 
 ---
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rameswarpanda&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tapu45&theme=react-dark)
 
 ---
 
