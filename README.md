@@ -2,6 +2,13 @@
 
 # 🚀 Rameswar Panda (Tapu)
 
+## 🛤️ My Two Passions
+
+- 💻 When I'm not building full-stack apps or debugging servers...
+- 🎒 I'm planning my next trip — from tech meetups to Himalayan retreats.
+- 🎥 Or re-watching Nolan’s genius frame-by-frame like a code review.
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%98%81%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Test+Automation+Expert+%F0%9F%A7%AA;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;React+%7C+Node.js+%7C+Python+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+AWS+%F0%9F%90%B3;Always+Learning+%26+Building+%F0%9F%93%9A" alt="Typing SVG" />
 
 <div align="center">
@@ -111,18 +118,18 @@
 
 \`\`\`javascript
 const currentlyLearning = {
-    devOps: ["Kubernetes", "Jenkins", "Terraform"],
-    cloud: ["AWS Solutions Architecture", "Microservices"],
-    frontend: ["Three.js", "WebGL", "Advanced React Patterns"],
-    backend: ["GraphQL", "gRPC", "Event-Driven Architecture"]
+    devOps: ["Docker Swarm", "CI/CD Pipelines", "Infrastructure as Code"],
+    cloud: ["AWS EC2/S3", "Load Balancing", "Serverless Functions"],
+    frontend: ["Advanced React Patterns", "Next.js 14 App Router", "Tailwind CSS"],
+    backend: ["Prisma ORM", "PostgreSQL Optimization", "Secure REST APIs"]
 };
 
-const goals2024 = [
-    "🚀 Master DevOps practices",
-    "☁️ AWS Certification",
-    "🌟 Contribute to major open source projects",
-    "📱 Launch a mobile app",
-    "🎯 Build a SaaS product"
+const goals2025 = [
+    "🚀 Deepen DevOps & cloud architecture skills",
+    "📦 Ship production-ready full-stack applications",
+    "📈 Optimize performance of enterprise-scale systems",
+    "🧠 Explore system design and architecture patterns",
+    "🎯 Build and launch a B2B SaaS dashboard"
 ];
 \`\`\`
 
