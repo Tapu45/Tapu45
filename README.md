@@ -2,9 +2,6 @@
 
 # 🚀 Rameswar Panda (Tapu)
 
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%98%81%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Test+Automation+Expert+%F0%9F%A7%AA;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;React+%7C+Node.js+%7C+Python+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+AWS+%F0%9F%90%B3;Always+Learning+%26+Building+%F0%9F%93%9A" alt="Typing SVG" />
 
 <div align="center">
@@ -16,11 +13,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Expertise-Full%20Stack%20Engineering-00d9ff?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Specialty-Scalable%20Web%20Applications-00d9ff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Focous-DevOps%20%26%20Distributed%20Systems-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Distributed%20Systems-00d9ff?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Proficiency-MERN%20Stack%20%26%20Prisma-00d9ff?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Interest-System%20Design%20%26%20Automation-00d9ff?style=for-the-badge&labelColor=000000" />
 </p>
-
 
 </div>
 
@@ -133,6 +129,94 @@ const goals2025 = [
 
 ---
 
+## 🎬 Beyond Code: My Passions
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+
+### 🎭 Cinema Enthusiast & 🌍 Travel Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Inception+%E2%9C%A8+Mind-bending+storytelling;Interstellar+%F0%9F%8C%8C+Love+transcends+dimensions;The+Dark+Knight+%F0%9F%A6%87+Why+do+we+fall%3F;Tenet+%E2%8F%B3+Don't+try+to+understand+it;Dunkirk+%E2%9A%93+Survival+against+all+odds;Memento+%F0%9F%A7%A0+Remember+Sammy+Jankis;The+Prestige+%F0%9F%8E%A9+Are+you+watching+closely%3F" alt="Nolan Films" />
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎬 **Christopher Nolan Devotee**
+*"Dreams feel real while we're in them"*
+
+🎯 **Favorite Nolan Films:**
+- 🌀 **Inception** - Reality within dreams
+- 🌌 **Interstellar** - Love across space-time  
+- 🦇 **The Dark Knight** - Chaos vs Order
+- ⏳ **Tenet** - Time inversion mastery
+- ⚓ **Dunkirk** - Survival storytelling
+- 🧠 **Memento** - Memory fragmentation
+- 🎩 **The Prestige** - Obsession & sacrifice
+
+**Philosophy:** *"Time is the fire in which we burn"*
+
+</td>
+<td align="center" width="50%">
+
+### 🌍 **Wanderlust Explorer**
+*"Not all those who wander are lost"*
+
+🗺️ **Travel Philosophy:**
+- 🏔️ **Mountains** - Finding peace in heights
+- 🏖️ **Beaches** - Serenity by the waves
+- 🏛️ **Heritage Sites** - Stories in stones
+- 🌃 **Cities** - Urban energy & culture
+- 🌲 **Nature** - Disconnecting to reconnect
+- 📸 **Photography** - Capturing moments
+- 🍜 **Local Cuisine** - Tasting cultures
+
+**Motto:** *"Collect moments, not things"*
+
+</td>
+</tr>
+</table>
+
+### 🎨 **Life in Code & Cinema**
+
+\`\`\`javascript
+const myPassions = {
+    cinema: {
+        director: "Christopher Nolan",
+        favoriteQuote: "We are all traveling through time together, every day of our lives",
+        watchingStyle: "IMAX + Surround Sound",
+        currentlyWatching: "Analyzing Tenet's temporal mechanics",
+        nextOnList: "Oppenheimer - The man who changed the world"
+    },
+    
+    travel: {
+        philosophy: "Every destination teaches you something new",
+        travelStyle: "Backpacking + Local experiences",
+        bucketList: ["Northern Lights", "Machu Picchu", "Japanese Cherry Blossoms"],
+        currentlyPlanning: "Himalayan trek adventure",
+        favoriteMemory: "Sunset at the beach, debugging code on my laptop"
+    },
+    
+    lifeBalance: {
+        morning: "Coffee + Nolan film analysis",
+        coding: "Building dreams into reality",
+        evening: "Planning next adventure",
+        weekend: "Exploring new places or rewatching Inception"
+    }
+};
+
+// The perfect day: Code like Nolan directs - with precision, passion, and purpose
+\`\`\`
+
+<img src="https://img.shields.io/badge/Current%20Mood-Dreaming%20in%20Code%20%26%20Cinema-00d9ff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Next%20Adventure-Planning%20Mountain%20Trek-00d9ff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Watching%20Tonight-Interstellar%20(Again)-00d9ff?style=for-the-badge&labelColor=000000" />
+
+</div>
+
+---
+
 ## 🌍 Global Reach
 
 <div align="center">
@@ -158,9 +242,9 @@ const goals2025 = [
 ### 🌐 Find Me Online
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rameswar-panda.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameswar-panda-993945275))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameswar-panda-993945275)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rameswarpanda25@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameswarpanda25@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
 
 ### 💬 Let's Build Something Amazing Together!
@@ -168,6 +252,8 @@ const goals2025 = [
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+*"In dreams, we enter a world that's entirely our own. In code, we create worlds for others to explore."*
 
 </div>
 
