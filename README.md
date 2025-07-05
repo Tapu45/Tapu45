@@ -2,11 +2,7 @@
 
 # 🚀 Rameswar Panda (Tapu)
 
-## 🛤️ My Two Passions
 
-- 💻 When I'm not building full-stack apps or debugging servers...
-- 🎒 I'm planning my next trip — from tech meetups to Himalayan retreats.
-- 🎥 Or re-watching Nolan’s genius frame-by-frame like a code review.
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%98%81%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Test+Automation+Expert+%F0%9F%A7%AA;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;React+%7C+Node.js+%7C+Python+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+AWS+%F0%9F%90%B3;Always+Learning+%26+Building+%F0%9F%93%9A" alt="Typing SVG" />
@@ -161,10 +157,10 @@ const goals2025 = [
 
 ### 🌐 Find Me Online
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rameswar-panda.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameswar-panda-993945275))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rameswarpanda25@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
 
 ### 💬 Let's Build Something Amazing Together!
