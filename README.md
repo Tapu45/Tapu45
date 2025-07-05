@@ -2,16 +2,18 @@
 
 # 🚀 Rameswar Panda (Tapu)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%98%81%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Test+Automation+Expert+%F0%9F%A7%AA;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;React+%7C+Node.js+%7C+Python+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+AWS+%F0%9F%90%B3;Always+Learning+%26+Building+%F0%9F%93%9A" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-### 🌟 Passionate Full Stack Developer & DevOps Learner from India 🇮🇳
+### 🌟 Passionate Full Stack Developer & DevOps Engineer from India 🇮🇳
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tapu45&style=for-the-badge&color=00d9ff&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Tapu45?style=for-the-badge&color=00d9ff&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Tapu45?style=for-the-badge&color=00d9ff&labelColor=000000" alt="Stars" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Specialty-DevOps%20%26%20Cloud-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Interest-AI%2FML%20%26%20Testing-00d9ff?style=for-the-badge&labelColor=000000" />
 </p>
 
 </div>
