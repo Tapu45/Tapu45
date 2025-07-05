@@ -11,10 +11,13 @@
 ### 🌟 Passionate Full Stack Developer & DevOps Engineer from India 🇮🇳
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Specialty-DevOps%20%26%20Cloud-00d9ff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Interest-AI%2FML%20%26%20Testing-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Expertise-Full%20Stack%20Engineering-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Specialty-Scalable%20Web%20Applications-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focous-DevOps%20%26%20Distributed%20Systems-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Proficiency-MERN%20Stack%20%26%20Prisma-00d9ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Interest-System%20Design%20%26%20Automation-00d9ff?style=for-the-badge&labelColor=000000" />
 </p>
+
 
 </div>
 
