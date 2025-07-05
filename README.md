@@ -62,6 +62,40 @@ A passionate Full Stack Developer and DevOps learner from India 🇮🇳
 
 ---
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| [📦 Complaint Management System](https://github.com/your-username/complaint-management) | A web app to streamline complaint handling in hostels | React, Node.js, MySQL |
+| [🏨 Hostel Management System](https://github.com/your-username/hostel-management) | Role-based hostel room allocation and fee system | MERN Stack |
+| [📈 Sales Tracker](https://github.com/your-username/sales-tracker) | A dashboard for managing and visualizing sales data | Next.js, Prisma, PostgreSQL |
+| [🧠 TPRM App](https://github.com/your-username/tprm-app) | Third-party risk management portal with audit-ready insights | Next.js, Prisma, PostgreSQL |
+
+---
+
+## 🌍 Visitor Analytics
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Tapu45/count.svg" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tapu45&style=flat-square&color=blue" alt="Total Views" />
+</p>
+
+
+---
+
+## 🌏 Country-wise Visitors (via FlagCounter)
+
+<p align="center">
+  <a href="https://info.flagcounter.com/Tapu45">
+    <img src="https://s11.flagcounter.com/count2/Tapu45/bg_ffffff/txt_000000/border_cccccc/columns_8/maxflags_248/viewers_3/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+</p>
+
+> Get your own [FlagCounter](https://flagcounter.com/) → generate and copy the image link.
+
+---
+
 ## 📊 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tapu45&theme=react-dark)
