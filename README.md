@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%98%81%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Test+Automation+Expert+%F0%9F%A7%AA;Cloud+Solutions+Architect+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;React+%7C+Node.js+%7C+Python+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+AWS+%F0%9F%90%B3;Always+Learning+%26+Building+%F0%9F%93%9A" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 </div>
 
 ### 🌟 Passionate Full Stack Developer & DevOps Engineer from India 🇮🇳
